@@ -1,0 +1,42 @@
+const appname = "eMart";
+const appversion = "Version 1.0.0";
+const credits = "emart";
+const email = "Email";
+const emailHint = "admin@admin.com";
+const password = "Password";
+const passwordHint = "*******";
+const forgetPassword = "Forget Password";
+const login = "Login";
+const signup = "Signup";
+const createNewAccount = "or, create new account";
+const loginwith = "Loginwith";
+
+const home = "Home",
+    categories = "Categories",
+    cart = "Cart",
+    account = "Account";
+
+const searchanything = "Search anything...",
+    todayDeal = "Today's Deal",
+    flashsale = "Flash Sale",
+    topSellers = "Top Sellers",
+    brand = "Brand",
+    topCategories = "Top Categories",
+    womenDress = "Women Dress",
+    girlsWatches = "Girls Watches",
+    mobilephone = "Mobile Phone",
+    boysGlasses = "Boys Glasses",
+    tshirts = "TShirts",
+    girlsDress = "Girls Dresses",
+    featuredProduct = "Featured Products",
+    featuredCategories = "Featured Categories";
+
+const womenClothing = "Women Clothing",
+    menClothingFashion = "Men Clothing & Fashion",
+    compAccess = "Computer & Accessories",
+    automobile = "Automobile",
+    kidtoys = "Kids & Toys",
+    sports = "Sports",
+    jewelery = "Jewelery",
+    cellphone = "Cellphone & Tab",
+    furniture = "Furniture";
